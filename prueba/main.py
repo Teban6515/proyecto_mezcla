@@ -1,11 +1,11 @@
-nombre = 'Esteban'
-apellido = 'kuygtjubg'
+nombre = 'Epa xxx'
+apellido = '..............g'
 nombre = 'Steven'
 apellido = 'García'
 
 print(f"Hola, {nombre} {apellido}!")
 
-print("Esteban ")
+print(" ")
 print("Amelines")
 print("OEOEOEOEOOEOE")
 print("Esteban ")
