@@ -1,5 +1,5 @@
-nombre = 'Epa xxx'
-apellido = '..............g'
+nombre = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+apellido = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 nombre = 'Steven'
 apellido = 'García'
 
