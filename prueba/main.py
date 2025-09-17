@@ -1,5 +1,5 @@
-nombre = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
-apellido = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+nombre = 'yyyyyyyyyyyyyyyyyyy'
+apellido = 'yyyyyyyyyyyyyyyyyyyyyyy'
 nombre = 'Steven'
 apellido = 'García'
 
