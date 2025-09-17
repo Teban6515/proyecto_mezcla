@@ -1,7 +1,7 @@
 nombre = 'yyyyyyyyyyyyyyyyyyy'
 apellido = 'yyyyyyyyyyyyyyyyyyyyyyy'
-nombre = 'zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz'
-apellido = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+nombre = 'bla bla bla'
+apellido = 'sisassassasas'
 nombre = 'Steven'
 apellido = 'García'
 
